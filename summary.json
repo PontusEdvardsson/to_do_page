@@ -1,27 +1,27 @@
 [
   {
     "priority": "Medium",
-    "subject": "Eftersom idag är lördag, kommer jag inte att skicka några svar. Här är sammanfattningarna av de mottagna e-posten:",
+    "subject": "Eftersom idag är lördag, kommer inga e-postmeddelanden att skickas. Här är sammanfattningarna av de mottagna e-postmeddelandena:",
     "message": ""
   },
   {
     "priority": "Medium",
-    "subject": "Re: Utvecklingssamtal L",
-    "message": "Det blir toppen 👍🏼. Mvh L."
+    "subject": "Parisutbytet",
+    "message": "Hej! På måndag är det möte för alla elever i Parisutbytet på Ytterbyskolan klockan 16:30. Jag kommer att åka med eleverna och de behöver gå minst 5 minuter innan era lektioners slut."
   },
   {
     "priority": "Medium",
-    "subject": "Dagens lista",
-    "message": "Det blir toppen 👍🏼. Mvh L."
-  },
-  {
-    "priority": "Medium",
-    "subject": "Förslag på svar:",
-    "message": "1. [Re: Utvecklingssamtal L] - Mest brådskande 2. [Dagens lista] - Mindre brådskande"
+    "subject": "Re: Utvecklingssamtal L.",
+    "message": "Det blir toppen. Mvh L."
   },
   {
     "priority": "Medium",
     "subject": "Förslag på svar:",
-    "message": "1. [Eftersom idag är lördag, kommer jag inte att skicka några svar. Här är sammanfattningarna av de mottagna e-posten:] - Mindre brådskande 2. [Re: Utvecklingssamtal L] - Mindre brådskande 3. [Dagens lista] - Mindre brådskande 4. [Förslag på svar:] - Mindre brådskande"
+    "message": "1. [Parisutbytet] - Mest brådskande 2. [Re: Utvecklingssamtal L.] - Mindre brådskande"
+  },
+  {
+    "priority": "Medium",
+    "subject": "Förslag på svar:",
+    "message": "1. [Eftersom idag är lördag, kommer inga e-postmeddelanden att skickas. Här är sammanfattningarna av de mottagna e-postmeddelandena:] - Mindre brådskande 2. [Parisutbytet] - Mindre brådskande 3. [Re: Utvecklingssamtal L.] - Mindre brådskande 4. [Förslag på svar:] - Mindre brådskande"
   }
 ]
