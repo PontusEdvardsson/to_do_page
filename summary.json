@@ -1,22 +1,27 @@
 [
   {
     "priority": "Medium",
-    "subject": "Idag är det lördag, och enligt instruktionerna skickas inga svar på e-post. Här är sammanfattningarna av de mottagna e-postmeddelandena:",
+    "subject": "Eftersom idag är lördag, kommer jag inte att skicka några svar. Här är sammanfattningarna av de mottagna e-posten:",
     "message": ""
   },
   {
     "priority": "Medium",
-    "subject": "Re: Utvecklingssamtal L.",
-    "message": "Detta meddelande bekräftar ett möte för utvecklingssamtalet och visar uppskattning för arrangemanget."
+    "subject": "Re: Utvecklingssamtal L",
+    "message": "Det blir toppen 👍🏼. Mvh L."
   },
   {
     "priority": "Medium",
     "subject": "Dagens lista",
-    "message": "Detta meddelande innefattar en lista och information relaterad till tidigare diskussioner. Förslaget är att avstå från att skicka svar idag."
+    "message": "Det blir toppen 👍🏼. Mvh L."
   },
   {
     "priority": "Medium",
     "subject": "Förslag på svar:",
-    "message": "1. [Re: Utvecklingssamtal L.] - Mest brådskande 2. [Dagens lista] - Mindre brådskande"
+    "message": "1. [Re: Utvecklingssamtal L] - Mest brådskande 2. [Dagens lista] - Mindre brådskande"
+  },
+  {
+    "priority": "Medium",
+    "subject": "Förslag på svar:",
+    "message": "1. [Eftersom idag är lördag, kommer jag inte att skicka några svar. Här är sammanfattningarna av de mottagna e-posten:] - Mindre brådskande 2. [Re: Utvecklingssamtal L] - Mindre brådskande 3. [Dagens lista] - Mindre brådskande 4. [Förslag på svar:] - Mindre brådskande"
   }
 ]
