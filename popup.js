@@ -2,8 +2,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     const emailList = document.getElementById("emailList");
 
     try {
-        const response = await fetch("https://pobben.app.n8n.cloud/webhook-test/6576c0a0-377e-4bab-bbc1-0a817cd95973"); // Replace with your n8n webhook URL
-        const emails = await response.json();
+        const response = await fetch("https://raw.githubusercontent.com/PontusEdvardsson/to_do_page/refs/heads/master/summary.txt?token=GHSAT0AAAAAAC6UA2ES4GFWTGPF3HBFGDIUZ5ZUWMQ"); // Replace with your public URL
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const text = await response.text();
+        const emails = JSON.parse(text); // Assuming the text file contains JSON data
 
         emailList.innerHTML = ""; // Clear "Loading..." message
 
@@ -19,6 +23,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         });
     } catch (error) {
         console.error("Error fetching email data:", error);
-        emailList.innerHTML = "<li>Error loading emails.</li>";
+        emailList.innerHTML = `<li>Error loading emails: ${error.message}</li>`;
     }
 });
