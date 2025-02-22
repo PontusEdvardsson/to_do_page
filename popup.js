@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const emailList = document.getElementById("emailList");
 
     try {
-        const response = await fetch("https://raw.githubusercontent.com/PontusEdvardsson/to_do_page/refs/heads/master/summary.txt?token=GHSAT0AAAAAAC6UA2ESQOXA5UEALITJRXOOZ5ZU3VQ"); // Replace with your correct raw URL
+        const response = await fetch("https://raw.githubusercontent.com/PontusEdvardsson/to_do_page/refs/heads/master/summary.json?token=GHSAT0AAAAAAC6UA2ESRF2PKHB5MD6DKDDCZ5ZU73A"); // Replace with your correct raw URL
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
