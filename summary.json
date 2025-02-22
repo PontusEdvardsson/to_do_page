@@ -1,22 +1,17 @@
 [
   {
     "priority": "Medium",
-    "subject": "Idag är det lördag, så inga e-postmeddelanden kommer att skickas. Här är sammanfattningarna av de mottagna e-postmeddelandena:",
-    "message": ""
-  },
-  {
-    "priority": "Medium",
     "subject": "Parisutbytet",
-    "message": "Möte för alla elever i Parisutbytet på måndag kl. 16:30. Bussavgång klockan 16. Eleverna behöver gå minst 5 minuter innan lektionerna slutar."
+    "message": "Det kommer att hållas ett möte för alla elever som deltar i Parisutbytet på Ytterbyskolan måndag klockan 16:30. Eleverna behöver gå tidigt från sina lektioner klockan 16."
   },
   {
     "priority": "Medium",
     "subject": "Re: Utvecklingssamtal L",
-    "message": "Bekräftelse på ett utvecklingssamtal. Avsändaren ser fram emot mötet och bekräftar att det blir toppen."
+    "message": "Linda bekräftar att allt är klart angående utvecklingssamtalet med L, och hennes meddelande är positivt."
   },
   {
     "priority": "Medium",
-    "subject": "Förslag på svar:",
-    "message": "1. [Idag är det lördag, så inga e-postmeddelanden kommer att skickas. Här är sammanfattningarna av de mottagna e-postmeddelandena:] - Mindre brådskande 2. [Parisutbytet] - Mindre brådskande 3. [Re: Utvecklingssamtal L] - Mindre brådskande"
+    "subject": "För svar: Det är viktigt att svara på mailet angående Parisutbytet eftersom det berör hela gruppen, medan svaret om utvecklingssamtalet med L kan prioriteras lägre.",
+    "message": ""
   }
 ]
