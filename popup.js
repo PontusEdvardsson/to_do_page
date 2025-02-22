@@ -2,12 +2,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     const emailList = document.getElementById("emailList");
 
     try {
-        const response = await fetch("https://raw.githubusercontent.com/PontusEdvardsson/to_do_page/refs/heads/master/summary.json"); // Static URL to the latest version
+        const response = await fetch("https://raw.githubusercontent.com/PontusEdvardsson/to_do_page/main/summary.json"); // Static URL to the latest version
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const text = await response.text();
-        const emails = JSON.parse(text); // Assuming the text file contains JSON data
+        const emails = await response.json(); // Assuming the text file contains JSON data
 
         emailList.innerHTML = ""; // Clear "Loading..." message
 
@@ -18,7 +17,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
         emails.forEach(email => {
             const li = document.createElement("li");
-            li.textContent = `${email.priority}: ${email.subject}`;
+            li.textContent = `${email.priority}: ${email.subject}\n${email.message}`;
             emailList.appendChild(li);
         });
     } catch (error) {
