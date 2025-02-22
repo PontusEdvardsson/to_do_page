@@ -1,15 +1,17 @@
 {
-    "manifest_version": 3,
-    "name": "n8n Email Summary",
-    "version": "1.0",
-    "description": "Displays summarized unread emails from n8n.",
-    "permissions": ["storage"],
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "16": "icon.png",
-        "48": "icon.png",
-        "128": "icon.png"
-      }
+  "manifest_version": 3,
+  "name": "n8n Email Summary",
+  "version": "1.0",
+  "description": "Displays summarized unread emails from n8n.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
     }
   }
+}
