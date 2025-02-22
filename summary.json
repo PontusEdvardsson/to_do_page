@@ -1,17 +1,57 @@
 [
   {
     "priority": "Medium",
+    "subject": "Utvecklingsamtal",
+    "message": "Hej P. Ska jag boka utvecklingsamtal med dig eller B, tänker så att det blir rätt denna gången 🤗🤣"
+  },
+  {
+    "priority": "Medium",
+    "subject": "Mentorstid 23C",
+    "message": "Behöver du hjälp med Teams? Anslut till mötet nu. Mötes-ID: 353 076 304 770, Lösenord: QD2Lq7oz."
+  },
+  {
+    "priority": "Medium",
+    "subject": "Re: Utvecklingsamtal",
+    "message": "God morgon, då bokar jag med B, men det hade varit jättebra om du också var med. Ha en fin dag!"
+  },
+  {
+    "priority": "Medium",
+    "subject": "Viktigt meddelande: På måndag morgon",
+    "message": "Viktigt meddelande angående något på måndag morgon."
+  },
+  {
+    "priority": "Medium",
+    "subject": "Workshop studiedag 4/3",
+    "message": "Nu börjar det närma sig studiedagarna i mars och vår workshop i matematik. Vi träffas på Thorildskolan kl 13.00."
+  },
+  {
+    "priority": "Medium",
+    "subject": "Test av brandlarmet måndag morgon",
+    "message": "Det kommer att göras ett test av brandlarmet måndag morgon på Munkegärdeskolan."
+  },
+  {
+    "priority": "Medium",
+    "subject": "Nytt meddelande: Lånade datorer",
+    "message": "Är ett gäng elever som har lånade datorer..."
+  },
+  {
+    "priority": "Medium",
+    "subject": "Nytt meddelande: Tacka för denna vecka",
+    "message": "Vi vill passa på att tacka för denna veckas insatser."
+  },
+  {
+    "priority": "Medium",
     "subject": "Parisutbytet",
-    "message": "Det är ett möte för alla elever i Parisutbytet måndagen klockan 16:30. Eleverna måste gå från sina lektioner minst 5 minuter tidigare för att hinna med bussen."
+    "message": "Det är möte för alla elever i Parisutbytet på Ytterbyskolan klockan 16:30."
   },
   {
     "priority": "Medium",
-    "subject": "Re: Utvecklingssamtal L.",
-    "message": "Meddelandet bekräftar att utvecklingssamtalet är bra planerat och är ifrån L till P."
+    "subject": "Re: Utvecklingssamtal L",
+    "message": "Det blir toppen 👍🏼"
   },
   {
     "priority": "Medium",
-    "subject": "För rekommendationer, det är viktigt att snabbt bekräfta deltagande i Parisutbytet-mötet. Utvecklingssamtalet verkar redan vara klart, så där kan man vänta med svar.",
-    "message": ""
+    "subject": "Rekommendationer för svar:",
+    "message": "- Reagera på \"Utvecklingssamtal\" och \"Re: Utvecklingsamtal\" för att klargöra eventuella osäkerheter om bokningen. - Svara på \"Viktigt meddelande: På måndag morgon\" om det handlar om en viktig händelse du behöver vara med på.  - Bekräfta deltagande i \"Workshop studiedag 4/3\" för att se till att allt är på plats. - Ingen brådska med de meddelanden som är mindre akuta, såsom \"Nytt meddelande: Tacka för denna vecka\"."
   }
 ]
